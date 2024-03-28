@@ -8,7 +8,12 @@
 
 <!-- Intro  -->
 <h1 align="center">Hi 👋, I'm Ajay singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<hr/>
+ hi, I'm <b>Ajay singh</b>, a passionate self-taught frontend developer and a freelance software engineer from India. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+<hr/>
 <img width: 200px height: 100px src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay05532&label=Profile%20views&color=0e75b6&style=flat" alt="ajay05532" /> </p>
