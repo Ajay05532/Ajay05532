@@ -14,17 +14,25 @@ A passionate self-taught frontend developer and a freelance software engineer fr
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <hr/>
-<img align="right" width ="400" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay05532&label=Profile%20views&color=0e75b6&style=flat" alt="ajay05532" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay05532" alt="ajay05532" /></a> </p>
-
-- 🌱 I’m currently learning **Backend**
+<p>
+  🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Frontend and UI/UX**
 
+- 💬 Ask me about **Android**
+
 - 📫 How to reach me **ajaysingh.asimap99@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay05532&label=Profile%20views&color=0e75b6&style=flat" alt="ajay05532" /> </p>
+
+  <img align="right" width ="400" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay05532" alt="ajay05532" /></a> </p>
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
