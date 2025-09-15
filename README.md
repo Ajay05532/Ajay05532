@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 
-<<div id="user-content-intro">
+<div id="user-content-intro">
   <h1 align="center" style="color: #f75c7e;">Hi, I'm Ajay Singh</h1>
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;CPP+%7C+Python+%7C+Java+%7C+Kotlin;Web+%7C+MERN+%7C+Next+js+%7C+mySql;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
@@ -79,6 +79,9 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay05532&label=Profile%20views&color=0e75b6&style=flat" alt="ajay05532" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+</div>
 
 ## 📈 GitHub Stats & Trophies
 
@@ -104,8 +107,8 @@
 </table>
 
 
+## Connect with me:
 
-<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/ajay-singh-as" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
