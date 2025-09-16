@@ -99,7 +99,7 @@
      <img src="https://github-profile-trophy.vercel.app/?username=ajay05532" alt="ajay05532" /> 
     </div>
     <div align="center">
-     <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc5MjU4NTIsIm5iZiI6MTc1NzkyNTU1MiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE1VDA4MzkxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4OGY3NDAwNjJkZjI2YjQwMDlkZDA3Mzc0NmUzZTYyYjcyMTQ4NDQ4YzUyNWQ3YjIzOTU0YTU1NjZjMDQ0YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hu3PHCXGgVD4YcY4VGLNfGQPvNlbRqOubV4XDUXPVhk" style="width:200px;" />
+    
       
    </div>
   </td>
